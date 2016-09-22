@@ -1,8 +1,8 @@
-Name:
+Name: Sukhjit Singh
 
-Compilation and Run Successful:
+Compilation and Run Successful:  Yes, compiled and ran successfully on local device.
 
-Unit Test Run Successfully:
+Unit Test Run Successfully:  Yes, ran successfully. (Process finished with exit code 0)
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
